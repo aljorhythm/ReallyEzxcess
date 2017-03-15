@@ -11,8 +11,8 @@ Ezxcess uses web forms to authenticate. HTTP requests were examined. The program
 ## Technology
 
 - Java
-- JavaFX (ui)
-- Apache commons (http requests)
+	- JavaFX (ui)
+	- Apache commons (http requests)
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vHRcRmQ0wNs" frameborder="0" allowfullscreen></iframe>
+[![ReallyEzxcess youtube](/docs/images/youtube.png)](https://www.youtube.com/embed/vHRcRmQ0wNs "Program in action")
