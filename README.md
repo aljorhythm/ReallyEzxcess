@@ -6,7 +6,7 @@ Network from my hostel room was authenticated by a [captive portal](https://en.w
 
 Ezxcess uses web forms to authenticate. HTTP requests were examined. The program can create HTTP requests using credentials provided by user and sends them to the server.
 
-![GitHub Logo](/images/captiveportal.png)
+![GitHub Logo](/docs/images/captiveportal.png)
 
 ## Technology
 
