@@ -1,2 +1,5 @@
 /external
 /bin
+/.settings
+.classpath
+.project
